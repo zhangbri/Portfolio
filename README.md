@@ -33,12 +33,12 @@ Experience the live version: [zhangbri.com](https://zhangbri.com)
 ## Screenshots 📸
 <p align="center">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Producer%20Section.png" alt="Producer Section" width="45%">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Skills%20Section.png" alt="Skills Section" width="45%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Skills%20Section.png" alt="Skills Section" width="50%">
 </p>
 <p align="center">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Park%20Swift.png alt="Park Swift" width="30%">
-  <img src="hhttps://github.com/zhangbri/Portfolio/blob/main/assets/Unsplash%20Client.png" alt="Unsplash Client" width="30%">
-  <img src="hhttps://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="30%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Park%20Swift.png" alt="Park Swift" width="30%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Unsplash%20Client.png" alt="Unsplash Client" width="30%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="30%">
 </p>
 ## Getting in Touch 📬
 For inquiries or feedback, connect at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or on [LinkedIn](https://www.linkedin.com/in/zhangbri/). Open to new ideas, projects, and collaboration opportunities.
