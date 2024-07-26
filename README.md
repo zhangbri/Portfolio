@@ -40,5 +40,6 @@ Experience the live version: [zhangbri.com](https://zhangbri.com)
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Unsplash%20Client.png" alt="Unsplash Client" width="52.5%">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="55%">
 </p>
+
 ## Getting in Touch 📬
 For inquiries or feedback, connect at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or on [LinkedIn](https://www.linkedin.com/in/zhangbri/). Open to new ideas, projects, and collaboration opportunities.
