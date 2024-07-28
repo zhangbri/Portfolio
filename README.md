@@ -29,7 +29,7 @@ cd Portfolio
 
 ## Live Demo 🔗
 Experience the live version: [zhangbri.com](https://zhangbri.com)
-
+Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
 ## Screenshots 📸
 <p align="center">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Producer%20Section.png" alt="Producer Section" width="45%">
