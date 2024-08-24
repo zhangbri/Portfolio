@@ -26,6 +26,7 @@ git clone https://github.com/zhangbri/Portfolio.git
 ```
 cd Portfolio
 ```
+**Open** http://127.0.0.1:5500/index.html **in your web browser to view the app.**
 
 ## Live Demo 🔗
 Experience the live version: [zhangbri.com](https://zhangbri.com)
