@@ -42,7 +42,7 @@ Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
 </p>
 <p align="center">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Park%20Swift.png" alt="Park Swift" width="45.4%">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="54.1%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="54%">
 </p>
 <p align="center">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Contact.png" alt="Contact" width="55%">
