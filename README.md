@@ -41,7 +41,7 @@ Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Skills%20Section.png" alt="Skills Section" width="52.7%">
 </p>
 <p align="center">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Park%20Swift.png" alt="Park Swift" width="45.4%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Park%20Swift.png" alt="Park Swift" width="45.3%">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="54%">
 </p>
 <p align="center">
