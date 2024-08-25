@@ -34,18 +34,18 @@ Experience the live version: [zhangbri.com](https://zhangbri.com)
 Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
 ## Screenshots 📸
 <p align="center">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Intro.png" alt="Intro Section" width="50%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Intro.png" alt="Intro Section" width="55%">
 </p>
 <p align="center">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Producer%20Section.png" alt="Producer Section" width="45%">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Skills%20Section.png" alt="Skills Section" width="52.7%">
 </p>
 <p align="center">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Park%20Swift.png" alt="Park Swift" width="46.7%">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="55%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Park%20Swift.png" alt="Park Swift" width="45.4%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Tails%20of%20War.png" alt="Tails of War" width="54.1%">
 </p>
 <p align="center">
-  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Contact.png" alt="Contact" width="50%">
+  <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Contact.png" alt="Contact" width="55%">
 </p>
 
 ## Getting in Touch 📬
