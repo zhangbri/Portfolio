@@ -1,22 +1,22 @@
-# 🌐 Brian Zhang's Portfolio
+# 🌐 Portfolio
 
-## Introduction 🌟
+## 🌟 Introduction
 Welcome to my portfolio! This project showcases my journey and skills as a software engineer and full-stack developer. It features a modern, responsive design to highlight my skills, projects, and professional experiences.
 
-## Features 🚀
+## 🚀 Features
 - **Responsive Design:** Ensures an optimal viewing experience across different devices.
 - **Interactive Animations:** Enhances user engagement with dynamic and visually appealing animations.
 - **SEO Optimized:** Incorporates best practices to improve search engine visibility.
 - **Accessible Navigation:** Fully supports keyboard navigation and screen-readers for inclusive user experiences.
 
-## Technologies Used 💻
+## 💻 Technologies
 - **HTML5:** For structuring the content.
 - **CSS3 (Flexbox, Grid):** For creating responsive and modern layouts.
 - **JavaScript:** To add interactivity and dynamic content.
 - **Google Analytics & Search Console:** For tracking website performance and optimizing search engine visibility.
 - **Hostinger Web Hosting:** Ensures fast, reliable, and secure website performance.
 
-## Installation and Setup 🛠️
+## 🛠️ Installation and Setup
 **Clone the Repository**
 ```
 git clone https://github.com/zhangbri/Portfolio.git
@@ -32,7 +32,7 @@ cd Portfolio
 Experience the live version: [zhangbri.com](https://zhangbri.com)
 
 Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
-## Screenshots 📸
+## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Intro.png" alt="Intro Section" width="55%">
 </p>
@@ -48,5 +48,5 @@ Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
   <img src="https://github.com/zhangbri/Portfolio/blob/main/assets/Contact.png" alt="Contact" width="55%">
 </p>
 
-## Getting in Touch 📬
+## 📬 Contact
 For inquiries or feedback, connect at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or on [LinkedIn](https://www.linkedin.com/in/zhangbri/). Open to new ideas, projects, and collaboration opportunities.
