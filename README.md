@@ -28,7 +28,7 @@ cd Portfolio
 ```
 **Open** http://127.0.0.1:5500/index.html **in your web browser to view.**
 
-## Live Demo 🔗
+## 🔗 Live Demo
 Experience the live version: [zhangbri.com](https://zhangbri.com)
 
 Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
