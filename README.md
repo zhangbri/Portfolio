@@ -3,7 +3,7 @@
 ## 🌟 Introduction
 Welcome to my portfolio! This project showcases my journey and skills as a software engineer and full-stack developer. It features a modern, responsive design to highlight my skills, projects, and professional experiences.
 
-## 🚀 Features
+## 💡 Features
 - **Responsive Design:** Ensures an optimal viewing experience across different devices.
 - **Interactive Animations:** Enhances user engagement with dynamic and visually appealing animations.
 - **SEO Optimized:** Incorporates best practices to improve search engine visibility.
