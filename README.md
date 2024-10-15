@@ -49,4 +49,4 @@ Check out the video preview: https://www.youtube.com/watch?v=ENsfu8w9IWw
 </p>
 
 ## 📬 Contact
-For inquiries or feedback, connect at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or on [LinkedIn](https://www.linkedin.com/in/zhangbri/). Open to new ideas, projects, and collaboration opportunities.
+For inquiries or feedback, please reach out via email at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhangbri/).
